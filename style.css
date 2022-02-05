@@ -266,7 +266,7 @@ body{
 
 #project-container{
 	margin-top: 5rem;
-	height: 80vh;
+	height: 100vh;
 	
 }
 .card{
@@ -280,7 +280,7 @@ body{
 }
 #contact-container{
 	margin-top: 3rem;
-	height: 50vh;
+	height: 80vh;
 	margin-bottom: 2rem;
 }
 .list-unstyled{
